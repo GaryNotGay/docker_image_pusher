@@ -6,3 +6,4 @@ jgraph/drawio
 vistalba/udpxy
 pixman/pixman
 socialsisteryi/cx-kitty
+tinyserve/msd_lite
