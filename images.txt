@@ -9,3 +9,4 @@ socialsisteryi/cx-kitty
 tinyserve/msd_lite
 --platform=linux/arm64 btpanel/baota:7.9.4-lnmp
 --platform=linux/arm64 jc21/nginx-proxy-manager
+--platform=linux/arm64 sbzr/udpxy
