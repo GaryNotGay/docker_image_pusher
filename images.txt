@@ -6,3 +6,4 @@ mysql:5.7
 mysql:8.0-debian
 zabbix/zabbix-web-nginx-mysql:centos-5.4.0
 zabbix/zabbix-server-mysql:centos-5.4.0
+wordpress:php8.3
