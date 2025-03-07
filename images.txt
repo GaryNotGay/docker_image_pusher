@@ -9,3 +9,4 @@ zabbix/zabbix-server-mysql:centos-5.4.0
 wordpress:php8.3
 agrrh/udpxy
 gitlab/gitlab-ce
+infiniflow/ragflow:v0.17.0-slim
